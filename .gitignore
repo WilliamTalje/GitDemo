@@ -1,0 +1,26 @@
+ # compiled class file #
+ *.class
+
+ # log file #
+ *.log
+
+ # blueJ?
+ *.ctxt
+
+ # mobile tools #
+ .mtj.tmp/
+
+ # package files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.idea
+*.iml
+
+
+
+
